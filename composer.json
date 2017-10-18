@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {"Nfq\\Weather\\": "src/"}
+  },
+  "require": {
+    "symfony/cache": "^3.3"
+  }
+}
